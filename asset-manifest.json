@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-3d/static/css/main.27dfa099.chunk.css",
+    "main.js": "/react-3d/static/js/main.da3c02a0.chunk.js",
+    "main.js.map": "/react-3d/static/js/main.da3c02a0.chunk.js.map",
+    "runtime-main.js": "/react-3d/static/js/runtime-main.40373336.js",
+    "runtime-main.js.map": "/react-3d/static/js/runtime-main.40373336.js.map",
+    "static/js/2.2ff81a4e.chunk.js": "/react-3d/static/js/2.2ff81a4e.chunk.js",
+    "static/js/2.2ff81a4e.chunk.js.map": "/react-3d/static/js/2.2ff81a4e.chunk.js.map",
+    "static/js/3.8b55cb98.chunk.js": "/react-3d/static/js/3.8b55cb98.chunk.js",
+    "static/js/3.8b55cb98.chunk.js.map": "/react-3d/static/js/3.8b55cb98.chunk.js.map",
+    "index.html": "/react-3d/index.html",
+    "static/css/main.27dfa099.chunk.css.map": "/react-3d/static/css/main.27dfa099.chunk.css.map",
+    "static/js/2.2ff81a4e.chunk.js.LICENSE.txt": "/react-3d/static/js/2.2ff81a4e.chunk.js.LICENSE.txt",
+    "static/media/8k_earth_clouds.08fcd800.jpg": "/react-3d/static/media/8k_earth_clouds.08fcd800.jpg",
+    "static/media/8k_earth_daymap.54672c1f.jpg": "/react-3d/static/media/8k_earth_daymap.54672c1f.jpg",
+    "static/media/8k_earth_nightmap.c0e138e9.jpg": "/react-3d/static/media/8k_earth_nightmap.c0e138e9.jpg",
+    "static/media/8k_earth_normal_map.930cf2e9.jpg": "/react-3d/static/media/8k_earth_normal_map.930cf2e9.jpg",
+    "static/media/8k_earth_specular_map.7b4efa59.jpg": "/react-3d/static/media/8k_earth_specular_map.7b4efa59.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40373336.js",
+    "static/js/2.2ff81a4e.chunk.js",
+    "static/css/main.27dfa099.chunk.css",
+    "static/js/main.da3c02a0.chunk.js"
+  ]
+}
